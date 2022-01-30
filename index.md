@@ -22,48 +22,48 @@ My reserach interests are primarily in phonetics and phonology. I'm especially i
 
 <strong>Education</strong>
 
-University of Southern California August 2021 - Present
+University of Southern California August 2021 - Present <br />
 Ph.D. in Linguistics
 
-Michigan State University - August 2019 - Spring 2021
-M.A. in Linguistics 
-Thesis:  Understanding Acceptability Judgements: Grammatical Knowledge vs. Lexical Search
+Michigan State University - August 2019 - Spring 2021 <br />
+M.A. in Linguistics <br />
+Thesis:  Understanding Acceptability Judgements: Grammatical Knowledge vs. Lexical Search <br />
 Advisor: Dr. Karthik Durvasula
 
-Michigan State University - August 2016 - May 2019
-B.A. in Linguistics
-Second degree in Japanese
+Michigan State University - August 2016 - May 2019 <br />
+B.A. in Linguistics <br />
+Second degree in Japanese <br />
 Minor in TESOL
 
-Lansing Community College - August 2013 - May 2016
+Lansing Community College - August 2013 - May 2016 <br />
 Japanese Major - Transferred 54 credits to MSU
 
 <strong>Teaching and Research Experience</strong>
 
-MSU LIN 230 (Languages of the World) Instructor 
-Graduate Instructor
+MSU LIN 230 (Languages of the World) Instructor <br />
+Graduate Instructor <br />
 June 2020 - August 2020
 
-MSU Child Language Acquisition Lab
-Graduate Research Assistant
+MSU Child Language Acquisition Lab <br />
+Graduate Research Assistant <br />
 August 2019 - June 2020
 
-English Partners in Communication (EPIC)
-Student Teacher
+English Partners in Communication (EPIC) <br />
+Student Teacher <br />
 January 2018 - May 2018
 
 
 <strong>Conferences</strong>
 
-University Undergraduate Research and Arts Forum (UURAF)
+University Undergraduate Research and Arts Forum (UURAF) <br />
 April 2019
 
 
-Michigan State Undergraduate Linguistics Conference (MSULC)
+Michigan State Undergraduate Linguistics Conference (MSULC) <br />
 April 2019
 
 
-Great Lakes Expo for Experimental and Formal Undergraduate Linguistics (GLEEFUL)
+Great Lakes Expo for Experimental and Formal Undergraduate Linguistics (GLEEFUL) <br />
 April 2019
 
 
