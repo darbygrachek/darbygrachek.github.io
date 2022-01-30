@@ -10,13 +10,6 @@ I'm originally from Michigan, and recieved a BA and MA from Michigan State Unive
 
 My reserach interests are primarily in phonetics and phonology. I'm especially interested in phonotactic acceptability judgments and how they can be used to better understand whether the phonological grammar is gradient or categorical. I'm also interested in the characteristics that separate stress and tone languages, and those that are in-between (pitch accent languages). 
 
-# Lab Groups
-
-[USC Phonetics and Phonology Group](https://sites.google.com/view/uscphongroup/home?authuser=0) (co-organizer)
-
-[Language Processing Lab](https://dornsife.usc.edu/labs/psycholinguistics/meetings/)
-
-
 
 # CV
 
@@ -65,6 +58,20 @@ April 2019
 
 Great Lakes Expo for Experimental and Formal Undergraduate Linguistics (GLEEFUL) <br />
 April 2019
+
+
+<strong>Lab Groups</strong>
+
+[USC Phonetics and Phonology Group](https://sites.google.com/view/uscphongroup/home?authuser=0) (co-organizer)
+
+[Language Processing Lab](https://dornsife.usc.edu/labs/psycholinguistics/meetings/)
+
+
+<strong>Languages</strong>
+
+English -  native
+
+Japanese - intermediate 
 
 
 # Contact me
