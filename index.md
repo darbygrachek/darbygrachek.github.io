@@ -15,7 +15,7 @@ My reserach interests are primarily in phonetics and phonology. I'm especially i
 
 <strong>Education</strong>
 
-University of Southern California August 2021 - Present <br />
+University of Southern California - August 2021 - Present <br />
 Ph.D. in Linguistics
 
 Michigan State University - August 2019 - Spring 2021 <br />
