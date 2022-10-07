@@ -1,14 +1,14 @@
 # Darby Grachek
 
 
-Hi! I'm Darby and I'm a first-year PhD student in linguistics at the University of Southern California.
+Hi! I'm Darby and I'm a second-year PhD student in linguistics at the University of Southern California.
 
 <img src="https://user-images.githubusercontent.com/65419390/151688014-919e3e26-60ea-42ac-a892-05f607015225.jpg" align="right" height="200" width="300p"/>
 
 
-I'm originally from Michigan, and recieved a BA and MA from Michigan State University. For my MA, I studied phonotactic acceptability judgments using methods from speech perception and was advised by [Dr. Karthik Durvasula](https://karthikdurvasula.gitlab.io/). 
+I'm originally from Michigan, and recieved a BA and MA from Michigan State University. For my MA, I studied phonotactic acceptability judgments using methods from speech perception and was advised by [Karthik Durvasula](https://karthikdurvasula.gitlab.io/). 
 
-My reserach interests are primarily in phonetics and phonology. I'm especially interested in phonotactic acceptability judgments and how they can be used to better understand whether the phonological grammar is gradient or categorical. I'm also interested in the characteristics that separate stress and tone languages, and those that are in-between (pitch accent languages). 
+My reserach interests are primarily in phonology, phonetics, and experimental/lab phonology. I'm advised by [Louis Goldein](https://sail.usc.edu/~lgoldste/me/) and [Stephanie Shih](https://stephsus.github.io/). I'm especially interested in prosodic systems and what leads to exceptions in regular prosodic patterns. I'm also interested in phonotactic acceptability judgments and how they can be used to better understand whether the phonological grammar is gradient or categorical. 
 
 
 # CV
@@ -33,17 +33,17 @@ Japanese Major - Transferred 54 credits to MSU
 
 <strong>Teaching and Research Experience</strong>
 
-MSU LIN 230 (Languages of the World) Instructor <br />
+USC LING 115 (Language and Society) <br /> 
+Teaching Assistant <br />
+Aug 2022 - Present 
+
+MSU LIN 230 (Languages of the World) <br />
 Graduate Instructor <br />
 June 2020 - August 2020
 
 MSU Child Language Acquisition Lab <br />
 Graduate Research Assistant <br />
 August 2019 - June 2020
-
-English Partners in Communication (EPIC) <br />
-Student Teacher <br />
-January 2018 - May 2018
 
 
 <strong>Conferences</strong>
