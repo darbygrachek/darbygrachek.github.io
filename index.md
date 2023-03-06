@@ -80,7 +80,7 @@ Japanese - intermediate
 <strong>Address:</strong>
 
 3601 Watt Way <br />
-Grace Ford Salvatori 301 <br />
+Grace Ford Salvatori 340 <br />
 Los Angeles, CA 90089
 
 
