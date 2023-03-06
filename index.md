@@ -1,4 +1,4 @@
-# Darby Grachek
+# About me
 
 
 Hi! I'm Darby and I'm a second-year PhD student in linguistics at the University of Southern California.
