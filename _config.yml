@@ -1,3 +1,3 @@
-theme: minima
-show_githublink: false 
-title: null
+theme: jekyll-themes-minimal-mistakes
+#show_githublink: false 
+#title: null
