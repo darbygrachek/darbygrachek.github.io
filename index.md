@@ -1,7 +1,7 @@
 # About me
 
 
-Hi! I'm Darby and I'm a second-year PhD student in linguistics at the University of Southern California.
+Hi! I'm Darby and I'm a third-year PhD student in linguistics at the University of Southern California.
 
 <img src="https://user-images.githubusercontent.com/65419390/151688014-919e3e26-60ea-42ac-a892-05f607015225.jpg" align="right" height="200" width="300p"/>
 
@@ -33,9 +33,13 @@ Japanese Major - Transferred 54 credits to MSU
 
 <strong>Teaching and Research Experience</strong>
 
+USC LING 210 (Intro to Linguistics) <br /> 
+Teaching Assistant <br />
+Aug 2023 - Present
+
 USC LING 115 (Language and Society) <br /> 
 Teaching Assistant <br />
-Aug 2022 - Present 
+Aug 2022 - May 2023
 
 MSU LIN 230 (Languages of the World) <br />
 Graduate Instructor <br />
@@ -47,6 +51,10 @@ August 2019 - June 2020
 
 
 <strong>Conferences</strong>
+
+Morris Halle @ 100 <br />
+September 2023
+
 
 University Undergraduate Research and Arts Forum (UURAF) <br />
 April 2019
