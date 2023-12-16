@@ -13,6 +13,35 @@ I'm originally from Michigan, and received a BA and MA from Michigan State Unive
 
 # CV
 
+<strong>Conferences</strong>
+
+Linguistic Society of America (LSA) 2024 annual meeting <br />
+January 2024 <br />
+Phonological learning is asymmetrical between prefixes and suffixes
+
+Annual Meeting on Phonology (AMP) <br />
+October 2023 <br />
+[Phonological learning is asymmetrical between prefixes and suffixes](https://drive.google.com/file/d/1Ffwcph6-_mivwkdUeNPAT65QMTNZBYzx/view?usp=sharing) 
+
+Morris Halle @ 100 <br />
+September 2023 <br />
+[Weight-sensitive prosodification of prefixes in Karuk](https://drive.google.com/file/d/1K-W5W7LrafS3ceQfp3nHSlKvybeCqJ4W/view?usp=sharing)
+<br />
+with Elango Kumaran
+
+Michigan State Undergraduate Linguistics Conference (MSULC) <br />
+April 2019 <br />
+[Playing with the perfect](https://drive.google.com/file/d/1Ihi3rsP-oc1omyAZfxU9yN1x-EwEJjzk/view?usp=sharing) 
+<br />
+with Kerry Berres, Jett Hampton, Sarah Jones, Hollie Nusbaum, Sarah Sirna
+
+Great Lakes Expo for Experimental and Formal Undergraduate Linguistics (GLEEFUL) <br />
+April 2019 <br />
+[Competition Between Past and Perfect](https://drive.google.com/file/d/1DyOmKBASTFSfxwWZTBW8aJqmAiUJL9ZO/view?usp=sharing) 
+<br />
+with Kerry Berres, Jett Hampton, Sarah Jones, Hollie Nusbaum, Sarah Sirna
+
+
 <strong>Education</strong>
 
 University of Southern California - August 2021 - Present <br />
@@ -50,34 +79,6 @@ Graduate Research Assistant <br />
 August 2019 - June 2020
 
 
-<strong>Conferences</strong>
-
-Linguistic Society of America (LSA) 2024 annual meeting <br />
-January 2024 <br />
-Phonological learning is asymmetrical between prefixes and suffixes
-
-Annual Meeting on Phonology (AMP) <br />
-October 2023 <br />
-[Phonological learning is asymmetrical between prefixes and suffixes](https://drive.google.com/file/d/1Ffwcph6-_mivwkdUeNPAT65QMTNZBYzx/view?usp=sharing) 
-
-Morris Halle @ 100 <br />
-September 2023 <br />
-[Weight-sensitive prosodification of prefixes in Karuk](https://drive.google.com/file/d/1K-W5W7LrafS3ceQfp3nHSlKvybeCqJ4W/view?usp=sharing)
-<br />
-with Elango Kumaran
-
-Michigan State Undergraduate Linguistics Conference (MSULC) <br />
-April 2019 <br />
-[Playing with the perfect](https://drive.google.com/file/d/1Ihi3rsP-oc1omyAZfxU9yN1x-EwEJjzk/view?usp=sharing) 
-<br />
-with Kerry Berres, Jett Hampton, Sarah Jones, Hollie Nusbaum, Sarah Sirna
-
-Great Lakes Expo for Experimental and Formal Undergraduate Linguistics (GLEEFUL) <br />
-April 2019 <br />
-[Competition Between Past and Perfect](https://drive.google.com/file/d/1DyOmKBASTFSfxwWZTBW8aJqmAiUJL9ZO/view?usp=sharing) 
-<br />
-with Kerry Berres, Jett Hampton, Sarah Jones, Hollie Nusbaum, Sarah Sirna
-
 <strong>Lab Groups</strong>
 
 [USC Phonetics and Phonology Group](https://sites.google.com/view/uscphongroup/home?authuser=0) (co-organizer)
@@ -93,7 +94,6 @@ Japanese - intermediate
 
 
 # Contact me
-
 
 <strong>Address:</strong>
 
