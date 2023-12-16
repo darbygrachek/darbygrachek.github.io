@@ -52,6 +52,15 @@ August 2019 - June 2020
 
 <strong>Conferences</strong>
 
+Linguistic Society of America (LSA) 2024 annual meeting <br />
+January 2024 <br />
+
+
+Annual Meeting on Phonology (AMP) <br />
+October 2023
+[Phonological learning is asymmetrical between prefixes and suffixes](https://drive.google.com/file/d/1Ffwcph6-_mivwkdUeNPAT65QMTNZBYzx/view?usp=sharing)
+
+
 Morris Halle @ 100 <br />
 September 2023
 
