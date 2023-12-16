@@ -67,13 +67,13 @@ September 2023 <br />
 with Elango Kumaran
 
 Michigan State Undergraduate Linguistics Conference (MSULC) <br />
-April 2019
+April 2019 <br />
 [Playing with the perfect](https://drive.google.com/file/d/1Ihi3rsP-oc1omyAZfxU9yN1x-EwEJjzk/view?usp=sharing) 
 <br />
 with Kerry Berres, Jett Hampton, Sarah Jones, Hollie Nusbaum, Sarah Sirna
 
 Great Lakes Expo for Experimental and Formal Undergraduate Linguistics (GLEEFUL) <br />
-April 2019
+April 2019 <br />
 [Competition Between Past and Perfect](https://drive.google.com/file/d/1DyOmKBASTFSfxwWZTBW8aJqmAiUJL9ZO/view?usp=sharing) 
 <br />
 with Kerry Berres, Jett Hampton, Sarah Jones, Hollie Nusbaum, Sarah Sirna
