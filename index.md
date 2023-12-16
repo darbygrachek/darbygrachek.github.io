@@ -6,7 +6,7 @@ Hi! I'm Darby and I'm a third-year PhD student in linguistics at the University 
 <img src="https://user-images.githubusercontent.com/65419390/151688014-919e3e26-60ea-42ac-a892-05f607015225.jpg" align="right" height="200" width="300p"/>
 
 
-My reserach interests are primarily in phonology, phonetics, and experimental/lab phonology. I'm advised by [Louis Goldstein](https://sail.usc.edu/~lgoldste/me/) and [Stephanie Shih](https://stephsus.github.io/), and I'm especially interested in prosodic systems and what leads to exceptions in regular prosodic patterns. I'm also interested in affixation, particularly the asymmetry between prefixes and suffixes, both typologically, and in the exceptional phonological behavior of prefixes.
+My reserach interests are primarily in phonology, morphology, and experimental/lab phonology. I'm advised by [Louis Goldstein](https://sail.usc.edu/~lgoldste/me/) and [Stephanie Shih](https://stephsus.github.io/), and I'm especially interested in affixation, particularly the asymmetry between prefixes and suffixes, both typologically, and in the exceptional phonological behavior of prefixes. I'm also interested in prosodic systems and what leads to exceptions in regular prosodic patterns.
 
 
 I'm originally from Michigan, and received a BA and MA from Michigan State University. For my MA, I studied phonotactic acceptability judgments using methods from speech perception and was advised by [Karthik Durvasula](https://karthikdurvasula.gitlab.io/). 
@@ -35,7 +35,7 @@ Japanese Major - Transferred 54 credits to MSU
 
 USC LING 210 (Intro to Linguistics) <br /> 
 Teaching Assistant <br />
-Aug 2023 - Present
+Aug 2023 - Dec 2023
 
 USC LING 115 (Language and Society) <br /> 
 Teaching Assistant <br />
@@ -54,28 +54,27 @@ August 2019 - June 2020
 
 Linguistic Society of America (LSA) 2024 annual meeting <br />
 January 2024 <br />
-
+Phonological learning is asymmetrical between prefixes and suffixes
 
 Annual Meeting on Phonology (AMP) <br />
-October 2023
-[Phonological learning is asymmetrical between prefixes and suffixes](https://drive.google.com/file/d/1Ffwcph6-_mivwkdUeNPAT65QMTNZBYzx/view?usp=sharing)
-
+October 2023 <br />
+[Phonological learning is asymmetrical between prefixes and suffixes](https://drive.google.com/file/d/1Ffwcph6-_mivwkdUeNPAT65QMTNZBYzx/view?usp=sharing) 
 
 Morris Halle @ 100 <br />
-September 2023
-
-
-University Undergraduate Research and Arts Forum (UURAF) <br />
-April 2019
-
+September 2023 <br />
+[Weight-sensitive prosodification of prefixes in Karuk](https://drive.google.com/file/d/1K-W5W7LrafS3ceQfp3nHSlKvybeCqJ4W/view?usp=sharing)
+<br />
+with Elango Kumaran
 
 Michigan State Undergraduate Linguistics Conference (MSULC) <br />
 April 2019
-
+[Playing with the perfect](https://drive.google.com/file/d/1Ihi3rsP-oc1omyAZfxU9yN1x-EwEJjzk/view?usp=sharing) <br />
+with Kerry Berres, Jett Hampton, Sarah Jones, Hollie Nusbaum, Sarah Sirna
 
 Great Lakes Expo for Experimental and Formal Undergraduate Linguistics (GLEEFUL) <br />
 April 2019
-
+[Competition Between Past and Perfect](https://drive.google.com/file/d/1DyOmKBASTFSfxwWZTBW8aJqmAiUJL9ZO/view?usp=sharing) <br />
+with Kerry Berres, Jett Hampton, Sarah Jones, Hollie Nusbaum, Sarah Sirna
 
 <strong>Lab Groups</strong>
 
