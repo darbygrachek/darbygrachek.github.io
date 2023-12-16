@@ -13,7 +13,7 @@ I'm originally from Michigan, and received a BA and MA from Michigan State Unive
 
 # CV
 
-<underline><strong>Conferences</strong></underline>
+<strong>Conferences</strong>
 
 Linguistic Society of America (LSA) 2024 annual meeting <br />
 January 2024 <br />
