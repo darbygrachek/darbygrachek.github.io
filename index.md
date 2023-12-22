@@ -11,7 +11,7 @@ My reserach interests are primarily in phonology, morphology, and experimental/l
 
 I'm originally from Michigan, and received a BA and MA from Michigan State University. For my MA, I studied phonotactic acceptability judgments using methods from speech perception and was advised by [Karthik Durvasula](https://karthikdurvasula.gitlab.io/). 
 
-# CV
+# CV 
 
 <strong>Conferences</strong>
 
