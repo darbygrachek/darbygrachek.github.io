@@ -1,7 +1,7 @@
 # About me
 
 
-Hi! I'm Darby and I'm a third-year PhD student in linguistics at the University of Southern California.
+Hi! I'm Darby and I'm a fourth-year PhD student in linguistics at the University of Southern California.
 
 <img src="https://user-images.githubusercontent.com/65419390/151688014-919e3e26-60ea-42ac-a892-05f607015225.jpg" align="right" height="200" width="300p"/>
 
