@@ -1,6 +1,5 @@
 menu:
 - {name: 'home', url: 'https://darbygrachek.github.io/'}
-- {name: 'presentations', url: '/people'}
 - {name: 'research', url: '/publications'}
 - {name: 'teaching', url: '/courses'}
 - {name: 'cv', url: '/cv'}
