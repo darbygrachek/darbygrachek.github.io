@@ -1,5 +1,5 @@
 menu:
-- {name: 'home', url: 'darbygrachek.github.io/'}
+- {name: 'home', url: ''}
 - {name: 'research', url: '/publications'}
 # - {name: 'teaching', url: '/courses'}
 - {name: 'cv', url: '/cv'}
