@@ -1,7 +1,8 @@
 menu:
-- {name: 'people', url: '/presentations'}
-- {name: 'publications', url: '/research'}
-- {name: 'courses', url: '/teaching'}
+- {name: 'home', url: '/home'}
+- {name: 'presentations', url: '/presentations'}
+- {name: 'research', url: '/research'}
+- {name: 'teaching', url: '/teaching'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
