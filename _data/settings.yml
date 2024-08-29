@@ -1,7 +1,7 @@
 menu:
-- {name: 'home', url: 'https://darbygrachek.github.io/'}
+- {name: 'home', url: 'darbygrachek.github.io/'}
 - {name: 'research', url: '/publications'}
-- {name: 'teaching', url: '/courses'}
+# - {name: 'teaching', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
