@@ -1,12 +1,10 @@
 - title: 'Teaching Assistant at University of Southern California'
   dates: 'Fall 2022 – Present'
-  descriptions:
-    - 'LING 115 - Language and Society (Fall 2022 - Spring 2023, Spring 2024 - Present)'
-    - 'LING 210 - Introduction to Linguistics (Fall 2023)'
+ description: ['LING 115 - Language and Society (Fall 2022 - Spring 2023, Spring 2024 - Present)', 'LING 210 - Introduction to Linguistics (Fall 2023)']
 
-- title: 'Graduate Advising Assistant at Michigan State University'
+- title: 'Graduate Assistant at Michigan State University'
   dates: 'Fall 2020 - Spring 2021'
-  description: 'Provided academic advising and administrative support to graduate students.'
+  description: 'Graduate Advising Assistant for Department of Linguistics, Languages, and Cultures'
 
 - title: 'Graduate Student Instructor at Michigan State University'
   dates: 'Summer 2020'
