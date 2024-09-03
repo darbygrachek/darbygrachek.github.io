@@ -1,25 +1,22 @@
-<!-- new format --> 
 <div class="row g-5 mb-5">
   <div>
+    <!-- Main Title with Large Heading and Divider -->
     <h3 class="fw-bold border-bottom pb-3 mb-5">Research</h3>
 
-   <!-- Section 1: Specific Interests 
-    <h4>Specific Interests</h4>
+    <!-- Section 1: Specific Interests 
+    <h4 class="mb-4">Specific Interests</h4>
     {% for item in site.data.publications.specific_interests %}
       <p>
-    {% if item.url %}
-      <a href="{{ item.url }}">{{ item.name }}</a>
+        {% if item.url %}
+          <a href="{{ item.url }}">{{ item.name }}</a>
         {% else %}
           {{ item.name }}
         {% endif %}
-     </p>
+      </p>
     {% endfor %} -->
 
-
-    <!-- Section 2: Conference Presentations 
-    <div class="row g-5 mb-5">
-  <div> -->
-    <h4 class="fw-bold border-bottom pb-3 mb-5">Conference Presentations</h4>
+    <!-- Section 2: Conference Presentations -->
+    <h4 class="mb-4">Conference Presentations</h4>
     {% for item in site.data.publications.conference_presentations %}
       <p>
         {{ item.date }}. 
@@ -36,12 +33,9 @@
         {{ item.presentation_type | downcase }}.
       </p>
     {% endfor %}
- <!--  </div>
-</div> -->
-
 
     <!-- Section 3: Journal Articles and Proceedings -->
-    <h4>Journal Articles and Proceedings</h4>
+    <h4 class="mb-4">Journal Articles and Proceedings</h4>
     {% for item in site.data.publications.journal_articles_and_proceedings %}
       <p>
         {{ item.name }} 
@@ -50,7 +44,6 @@
         {% endif %}
       </p>
     {% endfor %}
-
   </div>
 </div>
 
