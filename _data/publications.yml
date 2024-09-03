@@ -13,7 +13,7 @@
 
     - date: '2024'
       title: 'Phonological learning is asymmetrical between prefixes and suffixes'
-      title_url: 'publications/LSA24_prefix_poster.pdf'
+      title_url: '/publications/LSA24_prefix_poster.pdf'
       #additional_author: ''
       #additional_author_url: ''
       conference_name: 'Linguistic Society of America 2024 Annual Meeting'
@@ -21,7 +21,7 @@
 
     - date: '2023'
       title: 'Phonological learning is asymmetrical between prefixes and suffixes'
-      title_url: 'publications/grachek_kaiser_AMP23_poster.pdf'
+      title_url: '/publications/grachek_kaiser_AMP23_poster.pdf'
       #additional_author: ''
       #additional_author_url: ''
       conference_name: '2023 Annual Meeting on Phonology'
@@ -29,7 +29,7 @@
 
     - date: '2023'
       title: 'Weight-sensitive prosodification of prefixes in Karuk'
-      title_url: 'publications/KumaranGrachek_AMP_2023_paper_60_poster.pdf'
+      title_url: '/publications/KumaranGrachek_AMP_2023_paper_60_poster.pdf'
       additional_author: 'with Elango Kumaran'
       additional_author_url: 'https://sites.google.com/usc.edu/elango/'
       conference_name: '2023 Annual Meeting on Phonology'
@@ -37,7 +37,7 @@
 
     - date: '2019'
       title: 'Competition Between Past and Perfect'
-      title_url: 'publications/uuraf_2019_poster.pdf'
+      title_url: '/publications/uuraf_2019_poster.pdf'
       additional_author: 'with Kerry Berres, Jett Hampton, Sarah Jones, Hollie Nusbaum, and Sarah Sirna'
       #additional_author_url: ' '
       conference_name: 'University Undergraduate Research and Arts Forum'
@@ -45,7 +45,7 @@
 
     - date: '2019'
       title: 'Playing with the Perfect'
-      title_url: 'publications/uuraf_2019_poster2.pdf'
+      title_url: '/publications/uuraf_2019_poster2.pdf'
       additional_author: 'with Kerry Berres, Jett Hampton, Sarah Jones, Hollie Nusbaum, and Sarah Sirna'
       #additional_author_url: ' '
       conference_name: 'University Undergraduate Research and Arts Forum'
