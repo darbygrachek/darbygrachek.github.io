@@ -25,14 +25,22 @@
     <!-- Section 1: Specific Interests -->
     <h4>Specific Interests</h4>
     {% for item in site.data.publications.specific_interests %}
-      <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+      <p>
+    {% if item.url %}
+      <a href="{{ item.url }}">{{ item.name }}</a>
+        {% else %}
+          {{ item.name }}
+        {% endif %}
+     </p>
     {% endfor %}
+
 
     <!-- Section 2: Conference Presentations -->
     <h4>Conference Presentations</h4>
     {% for item in site.data.publications.conference_presentations %}
       <p><a href="{{ item.url }}">{{ item.name }}</a></p>
     {% endfor %}
+    
 
     <!-- Section 3: Journal Articles and Proceedings -->
     <h4>Journal Articles and Proceedings</h4>
