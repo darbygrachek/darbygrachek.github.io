@@ -1,16 +1,50 @@
+<!-- 
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Research</h3>
     {% if page.title == "Home" %}
-      {% for item in site.data.publications.featured %}
+     {% for item in site.data.publications.featured %} #original code# 
         <p>{{ section.description }}</p>
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% else %}
-      {% for item in site.data.publications.index %}
+       {% for item in site.data.publications.index %}  #original code# 
         <p>{{ section.description }}</p>
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% endif %}
   </div>
 </div>
+#original code# -->
+
+<!-- new format --> 
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Research</h3>
+
+    <!-- Section 1: Specific Interests -->
+    <h4>Specific Interests</h4>
+    {% for item in site.data.publications.specific_interests %}
+      <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+    {% endfor %}
+
+    <!-- Section 2: Conference Presentations -->
+    <h4>Conference Presentations</h4>
+    {% for item in site.data.publications.conference_presentations %}
+      <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+    {% endfor %}
+
+    <!-- Section 3: Journal Articles and Proceedings -->
+    <h4>Journal Articles and Proceedings</h4>
+    {% for item in site.data.publications.journal_articles_and_proceedings %}
+      <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+    {% endfor %}
+
+  </div>
+</div>
+
+
+
+
+
+
