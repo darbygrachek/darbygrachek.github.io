@@ -22,7 +22,7 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Research</h3>
 
-    <!-- Section 1: Specific Interests -->
+    <!-- Section 1: Specific Interests 
     <h4>Specific Interests</h4>
     {% for item in site.data.publications.specific_interests %}
       <p>
@@ -32,7 +32,7 @@
           {{ item.name }}
         {% endif %}
      </p>
-    {% endfor %}
+    {% endfor %} -->
 
 
     <!-- Section 2: Conference Presentations -->
@@ -40,6 +40,32 @@
     {% for item in site.data.publications.conference_presentations %}
       <p><a href="{{ item.url }}">{{ item.name }}</a></p>
     {% endfor %}
+
+    <div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Conference Presentations</h3>
+    {% for item in site.data.publications.conference_presentations %}
+      <p><strong>Date:</strong> {{ item.date }}</p>
+
+      <p>
+        <strong>Title:</strong> 
+        <a href="{{ item.title_url }}">{{ item.title }}</a>
+      </p>
+
+      {% if item.additional_author %}
+        <p>
+          <strong>Additional Author:</strong> 
+          <a href="{{ item.additional_author_url }}">{{ item.additional_author }}</a>
+        </p>
+      {% endif %}
+
+      <p><strong>Conference Name:</strong> {{ item.conference_name }}</p>
+      <p><strong>Presentation Type:</strong> {{ item.presentation_type }}</p>
+      <hr>
+    {% endfor %}
+  </div>
+</div>
+
     
 
     <!-- Section 3: Journal Articles and Proceedings 
