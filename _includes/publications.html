@@ -36,7 +36,29 @@
 
 
     <!-- Section 2: Conference Presentations -->
-    <h4>Conference Presentations</h4>
+    <div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Conference Presentations</h3>
+    {% for item in site.data.publications.conference_presentations %}
+      <p>
+        {{ item.date }}. 
+        <a href="{{ item.title_url }}">{{ item.title }}</a>
+        {% if item.additional_author %}
+          {% if item.additional_author_url %}
+            . {{ item.additional_author }} 
+            <a href="{{ item.additional_author_url }}">(link)</a>
+          {% else %}
+            . {{ item.additional_author }}
+          {% endif %}
+        {% endif %}
+        . {{ item.conference_name }}. 
+        {{ item.presentation_type | downcase }}.
+      </p>
+    {% endfor %}
+  </div>
+</div>
+
+ <!--   <h4>Conference Presentations</h4>
     {% for item in site.data.publications.conference_presentations %}
       <p><a href="{{ item.url }}">{{ item.name }}</a></p>
     {% endfor %}
@@ -64,7 +86,7 @@
       <hr>
     {% endfor %}
   </div>
-</div>
+</div> -->
 
     
 
