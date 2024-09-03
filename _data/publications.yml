@@ -4,6 +4,12 @@
     
   conference_presentations:
     - {name: 'Presentation Title Example', url: 'http://example.com/presentation'}
+    - {name: 'Presentation Title Example', url: 'http://example.com/presentation'}
+    - {name: 'Presentation Title Example', url: 'http://example.com/presentation'}
+    - {name: 'Presentation Title Example', url: 'http://example.com/presentation'}
+    - {name: 'Presentation Title Example', url: 'http://example.com/presentation'}
+    - {name: 'Presentation Title Example', url: 'http://example.com/presentation'}
+    - {name: 'Presentation Title Example', url: 'http://example.com/presentation'}
     
   journal_articles_and_proceedings:
     - {name: 'Grachek, Darby, and Elsi Kaiser. 2024. “Phonological Learning Is Asymmetrical Between Prefixes and Suffixes”. Proceedings of the Linguistic Society of America 9 (1): 5743', url: 'https://doi.org/10.3765/plsa.v9i1.5743'}
