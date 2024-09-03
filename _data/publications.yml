@@ -3,13 +3,13 @@
     - {name: 'What is the nature of the relationship between the lexicon and the phonological grammar?'}
     
   conference_presentations:
-    - {name: 'Presentation Title Example', url: 'http://example.com/presentation'}
-    - {name: 'Presentation Title Example', url: 'http://example.com/presentation'}
-    - {name: 'Presentation Title Example', url: 'http://example.com/presentation'}
-    - {name: 'Presentation Title Example', url: 'http://example.com/presentation'}
-    - {name: 'Presentation Title Example', url: 'http://example.com/presentation'}
-    - {name: 'Presentation Title Example', url: 'http://example.com/presentation'}
-    - {name: 'Presentation Title Example', url: 'http://example.com/presentation'}
+    - date: '2023'
+      title: ' Weight-sensitive prosodification of prefixes in Karuk.'
+      title_url: 'darbygrachek.github.io/publications/KumaranGrachek_AMP_2023_paper_60_poster.pdf'
+      additional_author: 'with Elango Kumaran'
+      additional_author_url: 'https://sites.google.com/usc.edu/elango/'
+      conference_name: 'Annual Meeting on Phonology'
+      presentation_type: 'Poster'
     
   journal_articles_and_proceedings:
     - {name: 'Grachek, Darby, and Elsi Kaiser. 2024. “Phonological Learning Is Asymmetrical Between Prefixes and Suffixes”. Proceedings of the Linguistic Society of America 9 (1): 5743', url: 'https://doi.org/10.3765/plsa.v9i1.5743'}
