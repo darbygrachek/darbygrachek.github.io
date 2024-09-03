@@ -42,10 +42,20 @@
     {% endfor %}
     
 
-    <!-- Section 3: Journal Articles and Proceedings -->
+    <!-- Section 3: Journal Articles and Proceedings 
     <h4>Journal Articles and Proceedings</h4>
     {% for item in site.data.publications.journal_articles_and_proceedings %}
       <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+    {% endfor %} -->
+
+    <h4>Journal Articles and Proceedings</h4>
+    {% for item in site.data.publications.journal_articles_and_proceedings %}
+      <p>
+        {{ item.name }} 
+        {% if item.url %}
+          <a href="{{ item.url }}">{{ item.url }}</a>
+        {% endif %}
+      </p>
     {% endfor %}
 
   </div>
