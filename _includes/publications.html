@@ -35,9 +35,9 @@
     {% endfor %} 
 
 
-    <!-- Section 2: Conference Presentations -->
+    <!-- Section 2: Conference Presentations 
     <div class="row g-5 mb-5">
-  <div>
+  <div> -->
     <h4 class="fw-bold border-bottom pb-3 mb-5">Conference Presentations</h4>
     {% for item in site.data.publications.conference_presentations %}
       <p>
@@ -55,8 +55,8 @@
         {{ item.presentation_type | downcase }}.
       </p>
     {% endfor %}
-  </div>
-</div>
+ <!--  </div>
+</div> -->
 
  <!--   <h4>Conference Presentations</h4>
     {% for item in site.data.publications.conference_presentations %}
@@ -90,8 +90,6 @@
 
   
     <!-- Section 3: Journal Articles and Proceedings -->
-   <div class="row g-5 mb-5">
-  <div>
     <h4>Journal Articles and Proceedings</h4>
     {% for item in site.data.publications.journal_articles_and_proceedings %}
       <p>
@@ -105,8 +103,6 @@
   </div>
 </div>
 
-      </div>
-</div>
 
 
 
