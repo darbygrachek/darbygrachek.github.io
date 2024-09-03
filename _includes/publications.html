@@ -22,7 +22,7 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Research</h3>
 
-    <!-- Section 1: Specific Interests 
+    Section 1: Specific Interests 
     <h4>Specific Interests</h4>
     {% for item in site.data.publications.specific_interests %}
       <p>
@@ -32,7 +32,7 @@
           {{ item.name }}
         {% endif %}
      </p>
-    {% endfor %} -->
+    {% endfor %} 
 
 
     <!-- Section 2: Conference Presentations -->
@@ -88,14 +88,8 @@
   </div>
 </div> -->
 
-    
-
-    <!-- Section 3: Journal Articles and Proceedings 
-    <h4>Journal Articles and Proceedings</h4>
-    {% for item in site.data.publications.journal_articles_and_proceedings %}
-      <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-    {% endfor %} -->
-
+  
+    <!-- Section 3: Journal Articles and Proceedings -->
     <h4>Journal Articles and Proceedings</h4>
     {% for item in site.data.publications.journal_articles_and_proceedings %}
       <p>
