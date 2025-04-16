@@ -1,4 +1,4 @@
-<!--
+
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Contact</h3>
@@ -10,13 +10,29 @@
         <p>{{ contact.institution_address }}</p>
       </div>
       <div class="col-md-6">
-             <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="100%">
+      <img src="google.scholar.png" alt="contact photo" width="100%">
       </div>
     </div>
     {% endfor %}
   </div>
 </div>
--->
+
+
+<!--
+#example code from home page (where an image does show up sucessfully) 
+<div class="row g-5 mb-5">
+  <div class="col-md-6">
+    <h3 class="fw-bold">About me</h3>
+    {{ content }}
+  </div>
+  <div class="col-md-6">
+  <img src="mind_blowing.jpg" alt="'Infinite Expansion' by Mike Kelley from The Broad art museum in downtown LA" width="100%", title="'Infinite Expansion' by Mike Kelley from The Broad art museum in downtown LA">
+  </div>
+</div>
+
+
+
+#chatgpt suggested code
 
 <div class="row g-5 mb-5">
   <h3 class="fw-bold border-bottom pb-3 mb-5">Contact</h3>
@@ -36,4 +52,5 @@
   {% endfor %}
 </div>
 
+-->
       <!--   <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" style="width: 200px; height: auto; float: right; margin-left: 20px;"> --> 
