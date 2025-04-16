@@ -25,4 +25,7 @@ social:
 #- {icon: 'researchgate', link: 'https://scholar.google.com/citations?user=Fb84R9cAAAAJ&hl=en'}
 
 contacts:
-- {name: 'Darby Grachek', department: 'Department of Linguistics', institution: 'University of Southern California', institution_address: '3601 Watt Way Los Angeles, CA 90089', email: 'grachek[at]usc[dot]edu', office: 'Grace Ford Salvatori Hall 303B', image: 'google.scholar.png', width: 200, height: 200} 
+- {name: 'Darby Grachek', department: 'Department of Linguistics', institution: 'University of Southern California', institution_address: '3601 Watt Way Los Angeles, CA 90089', email: 'grachek[at]usc[dot]edu', office: 'Grace Ford Salvatori Hall 303B', image: 'google.scholar.png', image_class: 'profile-image'}
+
+
+
