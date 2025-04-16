@@ -15,6 +15,20 @@
       </p>
     {% endfor %} -->
 
+    <!-- Section 3: Journal Articles and Proceedings -->
+    <h4 class="mb-4">Journal Articles and Proceedings</h4>
+    {% for item in site.data.publications.journal_articles_and_proceedings %}
+      <p>
+        {{ item.name }} 
+        {% if item.url %}
+          <a href="{{ item.url }}">{{ item.url }}</a>
+        {% endif %}
+      </p>
+    {% endfor %}
+    
+    <br>
+    <br>
+
     <!-- Section 2: Conference Presentations -->
     <h4 class="mb-4">Conference Presentations</h4>
     {% for item in site.data.publications.conference_presentations %}
@@ -32,21 +46,8 @@
         . {{ item.conference_name }}. 
         {{ item.presentation_type | downcase }}.
       </p>
-    {% endfor %}
+    {% endfor %} 
 
-<br>
-<br>
-    
-    <!-- Section 3: Journal Articles and Proceedings -->
-    <h4 class="mb-4">Journal Articles and Proceedings</h4>
-    {% for item in site.data.publications.journal_articles_and_proceedings %}
-      <p>
-        {{ item.name }} 
-        {% if item.url %}
-          <a href="{{ item.url }}">{{ item.url }}</a>
-        {% endif %}
-      </p>
-    {% endfor %}
   </div>
 </div>
 
