@@ -3,9 +3,13 @@ layout: home
 title: "Home"
 ---
 
-I'm a PhD candidate in linguistics in my fifth year at the University of Southern California.
+Hello! I’m a PhD candidate in linguistics at the University of Southern California, where I am advised by [Stephanie Shih](https://stephsus.github.io/). 
 
-My research interests are primarily in phonology, morphology, and experimental/lab phonology, and I'm advised by [Stephanie Shih](https://stephsus.github.io/). I'm especially interested in the relationship between the phonological grammar and the lexicon. Much of my research focuses on the phonological and lexical representations of morphologically complex words. I've worked extensively on the phonology of affixed words, and have most recently concentrated my work on phonological exceptionality and its association with particular affixes. 
+My research interests lie at the intersection of phonology and psycholinguistics, and one of the central goals of my work is to better understand the relationship between the lexicon and the phonological grammar using behavioral and computational methods. In other words how does the way we <i>access</i> words influence the way we <i>say</i> them? 
 
-Before starting at USC, I received a BA and MA from Michigan State University. For my MA, I studied phonotactic acceptability judgments using experimental methods from speech perception and was advised by [Karthik Durvasula](https://karthikdurvasula.gitlab.io/). 
+My research examines phonological exceptionality and how it relates to stored representations, especially in the case of morphologically complex words. I am also interested in how lexical processes (e.g. lexical access) shape the input supplied to the phonological grammar, and how variables such as frequency and phonological experience factor into these processes. 
+
+
+
+
 
