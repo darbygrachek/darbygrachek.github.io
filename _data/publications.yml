@@ -9,9 +9,17 @@ journal_articles_and_proceedings:
     - {name: 'Grachek, Darby, and Elsi Kaiser. 2024. “Phonological Learning Is Asymmetrical Between Prefixes and Suffixes”. Proceedings of the Linguistic Society of America, 9(1): 5743', url: 'https://doi.org/10.3765/plsa.v9i1.5743'}
     
 conference_presentations:
+    - date: 'Jan. 2026'
+      title: 'Lexical access and its relevance to phonological exceptions in Turkish'
+      title_url: '/publications/LSA2026_poster.pdf'
+      #additional_author: ''
+      #additional_author_url: ''
+      conference_name: 'Linguistic Society of America 2026 Annual Meeting'
+      presentation_type: 'Poster'
+      
     - date: 'July 2025'
       title: 'Connection Between Lexical Processing and Phonological Regularity: A Comparison Between English and Turkish'
-      #title_url: '/publications/AMP2024_submission.pdf'
+      title_url: '/publications/grachek_cogSci2025_poster.pdf'
       #additional_author: ''
       #additional_author_url: ''
       conference_name: 'CogSci 2025'
@@ -33,7 +41,7 @@ conference_presentations:
       conference_name: '2024 Annual Meeting on Phonology'
       presentation_type: 'Poster'
 
-    - date: '2024'
+    - date: 'Jan. 2024'
       title: 'Phonological learning is asymmetrical between prefixes and suffixes'
       title_url: '/publications/LSA24_prefix_poster.jpg'
       #additional_author: ''
@@ -41,7 +49,7 @@ conference_presentations:
       conference_name: 'Linguistic Society of America 2024 Annual Meeting'
       presentation_type: 'Poster'
 
-    - date: '2023'
+    - date: 'Oct. 2023'
       title: 'Phonological learning is asymmetrical between prefixes and suffixes'
       title_url: '/publications/grachek_kaiser_AMP23_poster.pdf'
       #additional_author: ''
@@ -49,7 +57,7 @@ conference_presentations:
       conference_name: '2023 Annual Meeting on Phonology'
       presentation_type: 'Poster'
 
-    - date: '2023'
+    - date: 'Sept. 2023'
       title: 'Weight-sensitive prosodification of prefixes in Karuk'
       title_url: '/publications/KumaranGrachek_AMP_2023_paper_60_poster.pdf'
       additional_author: 'with Elango Kumaran'
