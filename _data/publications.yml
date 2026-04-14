@@ -14,7 +14,7 @@ conference_presentations:
       title_url: '/publications/SCAMP2026_poster_references.pdf'
       #additional_author: ''
       #additional_author_url: ''
-      conference_name: 'Southern California April Meeting on Phonology (SCAMP)'
+      conference_name: 'Southern California Annual Meeting on Phonology (SCAMP)'
       presentation_type: 'Poster'
 
     - date: 'Jan. 2026'
@@ -38,7 +38,7 @@ conference_presentations:
       #title_url: '/publications/AMP2024_submission.pdf'
       #additional_author: ''
       #additional_author_url: ''
-      conference_name: 'Southern California April Meeting on Phonology (SCAMP)'
+      conference_name: 'Southern California Annual Meeting on Phonology (SCAMP)'
       presentation_type: 'Talk'
   
     - date: 'Nov. 2024'
