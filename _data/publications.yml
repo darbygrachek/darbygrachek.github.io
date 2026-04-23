@@ -17,6 +17,14 @@ conference_presentations:
       conference_name: 'Southern California Annual Meeting on Phonology (SCAMP)'
       presentation_type: 'Poster'
 
+    - date: 'April. 2026'
+      title: 'A large-scale corpus investigation of Italian Troncamento'
+      title_url: '/publications/SCAMP2026_troncamento_poster.pdf'
+      additional_author: 'with Dhanya Charan, Yue Chen, Po-Hsuan Huang, Muxuan He, Haley Hsu, Jane Li, Yang Wang, Canaan Breiss'
+      #additional_author_url: ''
+      conference_name: 'Southern California Annual Meeting on Phonology (SCAMP)'
+      presentation_type: 'Poster'
+
     - date: 'Jan. 2026'
       title: 'Lexical access and its relevance to phonological exceptions in Turkish'
       title_url: '/publications/LSA2026_poster.pdf'
