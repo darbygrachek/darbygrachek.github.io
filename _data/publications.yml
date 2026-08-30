@@ -9,7 +9,15 @@ journal_articles_and_proceedings:
     - {name: 'Grachek, Darby, and Elsi Kaiser. 2024. “Phonological Learning Is Asymmetrical Between Prefixes and Suffixes”. Proceedings of the Linguistic Society of America, 9(1): 5743', url: 'https://doi.org/10.3765/plsa.v9i1.5743'}
     
 conference_presentations:
-    - date: 'April. 2026'
+    - date: 'Sept. 2026'
+      title: 'Phonological Alternation Learning is Facilitated by Relative Frequency Cues'
+      title_url: '/publications/AMLaP_2026_poster_references.pdf'
+      #additional_author: ''
+      #additional_author_url: ''
+      conference_name: 'Architectures and Mechanisms for Language Processing (AMLaP)'
+      presentation_type: 'Poster'
+
+    - date: 'April 2026'
       title: 'Investigating the Role of Lexical Decomposition in Learning Phonological Alternations'
       title_url: '/publications/SCAMP2026_poster_references.pdf'
       #additional_author: ''
@@ -17,7 +25,7 @@ conference_presentations:
       conference_name: 'Southern California Annual Meeting on Phonology (SCAMP)'
       presentation_type: 'Poster'
 
-    - date: 'April. 2026'
+    - date: 'April 2026'
       title: 'A large-scale corpus investigation of Italian Troncamento'
       title_url: '/publications/SCAMP2026_troncamento_poster.pdf'
       additional_author: 'with Dhanya Charan, Yue Chen, Po-Hsuan Huang, Muxuan He, Haley Hsu, Jane Li, Yang Wang, Canaan Breiss'
