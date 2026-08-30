@@ -11,7 +11,7 @@ journal_articles_and_proceedings:
 conference_presentations:
     - date: 'Sept. 2026'
       title: 'Phonological Alternation Learning is Facilitated by Relative Frequency Cues'
-      title_url: '/publications/AMLaP_2026_poster_references.pdf'
+      title_url: '/publications/AMLaP2026_poster_references.pdf'
       #additional_author: ''
       #additional_author_url: ''
       conference_name: 'Architectures and Mechanisms for Language Processing (AMLaP)'
