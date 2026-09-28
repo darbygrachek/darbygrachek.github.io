@@ -9,6 +9,14 @@ journal_articles_and_proceedings:
     - {name: 'Grachek, Darby, and Elsi Kaiser. 2024. “Phonological Learning Is Asymmetrical Between Prefixes and Suffixes”. Proceedings of the Linguistic Society of America, 9(1): 5743', url: 'https://doi.org/10.3765/plsa.v9i1.5743'}
     
 conference_presentations:
+    - date: 'Oct. 2026'
+      title: 'Relative Frequency Cues Facilitate Phonological Alternation Learning'
+      title_url: '/publications/AMP2026_poster_references.pdf'
+      #additional_author: ''
+      #additional_author_url: ''
+      conference_name: '2026 Annual Meeting on Phonology (AMP)'
+      presentation_type: 'Poster'
+
     - date: 'Sept. 2026'
       title: 'Phonological Alternation Learning is Facilitated by Relative Frequency Cues'
       title_url: '/publications/AMLaP2026_poster_references.pdf'
